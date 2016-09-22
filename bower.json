@@ -1,0 +1,17 @@
+{
+  "name": "my97",
+  "homepage": "https://github.com/weijiayou/my97",
+  "authors": [
+    "weijiayou <wjy511295494@qq.com>"
+  ],
+  "description": "4.72",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
